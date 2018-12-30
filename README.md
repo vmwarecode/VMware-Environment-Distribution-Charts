@@ -1,1 +1,0 @@
-# VMware-Environment-Distribution-Charts
